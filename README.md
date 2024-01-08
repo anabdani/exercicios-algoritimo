@@ -1,0 +1,2 @@
+# exercicios-algoritimo
+ exercicios
